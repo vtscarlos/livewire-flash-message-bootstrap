@@ -10,7 +10,7 @@ Small component to reactively eliminate error or success messages in livewire, t
 - App\Http\Livewire
 - Resources\views\livewire
 
-## Create files and folders
+## Call to component
 
 Copy the component call below your navbar or wherever you want
 ``` bash
