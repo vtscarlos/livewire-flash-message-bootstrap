@@ -1,7 +1,7 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
   
-Small component to reactively eliminate error or success messages in livewire, to avoid having to include the display of flash messages in all your components.
+Small component to reactively show error or success messages in livewire, to avoid having to include the display of flash messages in all your components.
 
 
 # Installation
